@@ -22,20 +22,20 @@ PySide==1.2.2
 Qt==4.8.5  
 
 Optional
-ModestMaps==1.4.1
-basemap==1.0.7
+ModestMaps==1.4.1  
+basemap==1.0.7  
 
 
 
 ### Authors ###
 
-Gavin Baily developed the geo_qt package
+Gavin Baily developed the geo_qt package  
 Stefano De Sabbata developed the WMF Lab tool for capturing geo-coded Wikipedia article metadata
 
 ### Project team ###
 
-Principal Investigator: Tom Corby, CREAM, University of Westminster
-Researcher: Gavin Baily, CREAM, University of Westminster and Tracemedia
-Researcher: Stefano De Sabbata, Oxford Internet Institute, University of Oxford
+Principal Investigator: Tom Corby, CREAM, University of Westminster  
+Researcher: Gavin Baily, CREAM, University of Westminster and Tracemedia  
+Researcher: Stefano De Sabbata, Oxford Internet Institute, University of Oxford  
 
 
